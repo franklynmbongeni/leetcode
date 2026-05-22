@@ -18,4 +18,3 @@ class Solution:
         # equal to  4 therefore
         #we have 1 -> 2 -> 4 -> 4 -> 5 now we assign the new 4 to point to the value after the old 4 (which is 5 :) )
         #so at the end we have 1 -> 2 -> 4 -> 5
-        
